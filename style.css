@@ -12,7 +12,7 @@
             font-family: Arial, sans-serif;
         }
         header {
-            background-color: white;
+            background-color:#72A0C1;
             padding: 20px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
@@ -45,6 +45,29 @@
             padding: 20px;
             box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
             text-align: center;
+        }
+                .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .back-button {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .back-button a {
+            text-decoration: none;
+            background-color: #72A0C1;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 4px;
+        }
+        
+        .back-button a:hover {
+            background-color: #567999;
         }
     </style>
 </head>
