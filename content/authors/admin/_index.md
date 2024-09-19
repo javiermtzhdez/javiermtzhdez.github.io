@@ -105,7 +105,7 @@ skills:
         description: ''
         percent: 100
         icon: ''
-      - name: SQL
+      - name: Microsoft Excel
         description: ''
         percent: 40
         icon: chart-bar
