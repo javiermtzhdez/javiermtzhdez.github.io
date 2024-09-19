@@ -91,31 +91,29 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: custom/python-127-svgrepo-com
+        #percent: 80
+        icon: code-bracket
       - name: Julia
         description: ''
-        percent: 80
-        icon: custom/julia-svgrepo-com
-      - name: Latex
+        #percent: 80
+        icon: code-bracket
+      - name: Stata
         description: ''
-        percent: 100
-        icon: custom/latex-svgrepo-com
+        #percent: 100
+        icon: ''
       - name: Microsoft Office
         description: ''
-        percent: 40
+        #percent: 40
         icon: custom/microsoft-office-2013-logo-svgrepo-com
-
-hobbies:
   - name: Hobbies
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        #percent: 60
         icon: person-simple-walk
       - name: Gardening
         description: ''
-        percent: 80
+        #percent: 80
         icon: custom/plant-svgrepo-com
 
 
