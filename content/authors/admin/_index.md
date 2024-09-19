@@ -106,8 +106,6 @@ skills:
         percent: 40
         icon: custom/microsoft-office-2013-logo-svgrepo-com
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
