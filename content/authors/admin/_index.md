@@ -96,7 +96,7 @@ skills:
       - name: Julia
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: devicon/julia
       - name: Microsoft Office
         description: ''
         percent: 40
