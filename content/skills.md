@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills # & Hobbies
       username: admin
     design:
       show_skill_percentage: false
@@ -20,8 +20,8 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: resume-hobbies
+  - block: resume-skills
     content:
-      title: Languages
+      title: Hobbies
       username: admin
 ---
