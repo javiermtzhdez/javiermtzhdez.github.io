@@ -92,7 +92,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: terminal-solid
+        icon: custom/python-127-svgrepo-com
       - name: Julia
         description: ''
         percent: 80
