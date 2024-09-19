@@ -47,7 +47,7 @@ education:
   - area: PhD Economics
     institution: Western University
     date_start: 2016-01-01
-    date_end: 2025-08-01 
+    date_end: ''
     
   - area: MSc. Economics
     institution: El Colegio de Mexico
@@ -60,28 +60,29 @@ education:
     date_end: 2012-08-31
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Economic Analyst
+    company_name: Banco de Mexico (Mexican Central Bank)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2015-10-01
+    date_end: 2018-08-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.
+      - Perform econometric and analytical research for policy briefings.
+      - Data compilation, cleaning and preparation. Programming to facilitate and improve data manipulation and analysis.
+      - Detail reviews of policy documents, books and regulations for consistency and accuracy. 
+      
+  - position: Department Head
+    company_name: Federal Telecommunications Institute
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-06-01
+    date_end: 2015-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Evaluation of information to support in ongoing investigations, and conducting assessments of preliminary reviews at the Investigative Authority.
+      - Compiled data on relevant topics for regulatory purposes.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -92,14 +93,22 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Stata
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Latex
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: ''
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -108,14 +117,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Gardening
         description: ''
         percent: 80
-        icon: camera
+        icon: flower
 
 languages:
   - name: Spanish
@@ -129,15 +134,15 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
+#awards:
+#  - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+#  - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
@@ -147,7 +152,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+ # - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
