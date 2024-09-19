@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Experience
-    url: experience/
+    url: content/experience/experience.md
     weight: 20
   - name: Skills
     url: skills/
