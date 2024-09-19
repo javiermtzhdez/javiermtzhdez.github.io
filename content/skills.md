@@ -22,3 +22,6 @@ sections:
       username: admin
  
 ---
+## About Me
+
+Welcome! I am a Ph.D. Candidate in Economics at the University of Western Ontario. My interests are Empirical Industrial Organization, Applied Economics and Causal Inference, currently with a focus in R&D investments and spillovers. I am also interested in antitrust/competition policy and the cases within that area.
