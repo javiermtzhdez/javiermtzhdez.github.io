@@ -113,8 +113,8 @@ skills:
         description: ''
         percent: 80
         icon: custom/flower-svgrepo-com
-      - name: ''
-        description: ''
+      - name:    
+        description:   
         percent: ''
         icon: ''
 
