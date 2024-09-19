@@ -109,14 +109,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Gardening
         description: ''
-        percent: 100
-        icon: cat
-      #- name: Gardening
-      #  description: ''
-      #  percent: 80
-      #  icon: camera
+        percent: 80
+        icon: custom/flower-svgrepo-com
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
 
 languages:
   - name: Spanish
