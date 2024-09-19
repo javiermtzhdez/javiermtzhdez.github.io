@@ -44,7 +44,7 @@ interests:
   - Causal Inference
 
 education:
-  - area: PhD Economics
+  - area: Ph.D. Economics
     institution: Western University
     date_start: 2016-01-01
     date_end: ''
@@ -92,23 +92,19 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: assets/media/icons/python-127-svgrepo-com.svg
-      - name: Stata
-        description: ''
-        percent: 80
-        icon: assets/media/icons/stata-svgrepo-com.svg
+        icon: custom/stata-svgrepo-com
       - name: Julia
         description: ''
         percent: 80
-        icon: assets/media/icons/julia-svgrepo-com.svg
+        icon: custom/julia-svgrepo-com
       - name: Latex
         description: ''
         percent: 100
-        icon: assets/media/icons/latex-svgrepo-com.svg
+        icon: custom/latex-svgrepo-com
       - name: Microsoft Office
         description: ''
         percent: 40
-        icon: assets/media/icons/microsoft-office-2013-logo-svgrepo-com.svg
+        icon: custom/microsoft-office-2013-logo-svgrepo-com
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,7 +116,7 @@ skills:
       - name: Gardening
         description: ''
         percent: 80
-        icon: plant-svgrepo-com
+        icon: custom/plant-svgrepo-com
 
 languages:
   - name: Spanish
