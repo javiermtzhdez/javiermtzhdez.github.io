@@ -43,6 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    demo: true
     id: papers
     content:
       title: Featured Publications
@@ -54,6 +55,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    demo: true
     content:
       title: Recent Publications
       text: ""
@@ -64,6 +66,7 @@ sections:
     design:
       view: citation
   - block: collection
+    demo: true
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -74,6 +77,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
+    demo: true
     id: news
     content:
       title: Recent News
