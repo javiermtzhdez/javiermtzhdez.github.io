@@ -92,23 +92,23 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python-127-svgrepo-com
+        icon: assets/media/icons/python-127-svgrepo-com.svg
       - name: Stata
         description: ''
         percent: 80
-        icon: stata-svgrepo-com
+        icon: assets/media/icons/stata-svgrepo-com.svg
       - name: Julia
         description: ''
         percent: 80
-        icon: julia-svgrepo-com
+        icon: assets/media/icons/julia-svgrepo-com.svg
       - name: Latex
         description: ''
         percent: 100
-        icon: latex-svgrepo-com
+        icon: assets/media/icons/latex-svgrepo-com.svg
       - name: Microsoft Office
         description: ''
         percent: 40
-        icon: microsoft-office-2013-logo-svgrepo-com
+        icon: assets/media/icons/microsoft-office-2013-logo-svgrepo-com.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
