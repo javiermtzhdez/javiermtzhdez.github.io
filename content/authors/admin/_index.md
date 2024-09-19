@@ -105,6 +105,8 @@ skills:
         description: ''
         percent: 40
         icon: custom/microsoft-office-2013-logo-svgrepo-com
+
+hobbies:
   - name: Hobbies
     items:
       - name: Hiking
@@ -115,6 +117,7 @@ skills:
         description: ''
         percent: 80
         icon: custom/plant-svgrepo-com
+
 
 languages:
   - name: Spanish
