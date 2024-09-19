@@ -16,12 +16,18 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+
+# Custom text block after skills
+  - block: custom-text
+    content:
+      text: "In Python and Julia I am proficient in data cleaning, simulation, graphing. In Python, in particular I am also capable in web scraping, and general automation of tasks."
+    design:
+      style: plain
+    
   - block: resume-languages
     content:
       title: Languages
       username: admin
  
 ---
-## About Me
 
-Welcome! I am a Ph.D. Candidate in Economics at the University of Western Ontario. My interests are Empirical Industrial Organization, Applied Economics and Causal Inference, currently with a focus in R&D investments and spillovers. I am also interested in antitrust/competition policy and the cases within that area.
