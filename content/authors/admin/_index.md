@@ -92,7 +92,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: Julia
         description: ''
         percent: 100
