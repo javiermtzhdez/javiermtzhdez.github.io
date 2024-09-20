@@ -1,6 +1,7 @@
 ---
 title: My page
 type: landing
+hideTitle: true
 
 sections:
   - block: resume-skills
