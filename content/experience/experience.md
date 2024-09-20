@@ -4,6 +4,7 @@ date: 2023-10-24
 type: landing
 design:
   spacing: '5rem'
+weight: 10
 
 sections:
   - title: 'Work Experience'
@@ -21,7 +22,6 @@ sections:
             - Perform econometric and analytical research for policy briefings.
             - Data compilation, cleaning and preparation. Programming to facilitate and improve data manipulation and analysis.
             - Detail reviews of policy documents, books, and regulations for consistency and accuracy.
-
         - position: Department Head
           company_name: Federal Telecommunications Institute
           company_url: ''
