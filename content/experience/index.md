@@ -1,7 +1,7 @@
 ---
 title: ""
 draft: false
-layout: single  # Customize if necessary
+layout: landing  # Customize if necessary
 showDate: false
 hideTitle: true
 showReadingTime: false  # Custom parameter to control reading time display
