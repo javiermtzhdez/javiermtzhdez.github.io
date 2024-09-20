@@ -1,8 +1,16 @@
 ---
-title: 'Skills'
-date: 2023-10-24
+title: My page
 type: landing
-showDate: false
-design:
-  spacing: '5rem'
+
+sections:
+  - block: resume-skills
+    content:
+      title: Skills
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+  - block: resume-hobbies
+    content:
+      title: Hobbies
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
 ---
