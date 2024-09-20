@@ -9,10 +9,11 @@ weight: 1
 
 In here you can find my nonacademic/policy experience and my academic (RA) experience. 
 
-##**Nonacademic/Policy Experience**  
+###Nonacademic/Policy Experience
   
 <span style="font-size: 0.9em;">
-** Economic Analyst - Banco de Mexico (Mexican Central Bank) **  
+  
+**Economic Analyst - Banco de Mexico (Mexican Central Bank)**  
 **October 2015 - August 2018**
 
 Responsibilities include:
@@ -23,7 +24,7 @@ Responsibilities include:
 
 ---
 
-### Department Head - Federal Telecommunications Institute  
+**Department Head - Federal Telecommunications Institute**  
 **June 2015 - September 2015**
 
 Responsibilities include:
@@ -32,5 +33,6 @@ Responsibilities include:
 
 
 
-##**Academic (RA) Experience**  
+###Academic (RA) Experience
+
 </span>
