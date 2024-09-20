@@ -7,7 +7,6 @@ hideTitle: true
 showReadingTime: false  # Custom parameter to control reading time display
 ---
 
-In here you can find my nonacademic/policy experience and my academic (RA) experience. 
 
 ### Nonacademic/Policy Experience
   
