@@ -5,7 +5,6 @@ layout: single  # Customize if necessary
 showDate: false
 hideTitle: true
 weight: 1
-type: landing
 ---
 
 In here you can find my nonacademic/policy experience and my academic (RA) experience. 
