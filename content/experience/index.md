@@ -7,13 +7,28 @@ hideTitle: true
 weight: 1
 ---
 
-## Experience
-In here you can find my nonacademic/policy experience and my academic (RA) experience. Here are some key areas:
+In here you can find my nonacademic/policy experience and my academic (RA) experience. 
 
-### Sections
+**[Nonacademic/Policy Experience]**  
+  
 
-1. **[Nonacademic/Policy Experience](./work-experience)**  
-   Detailed insights about the roles I’ve held.
+### Economic Analyst - Banco de Mexico (Mexican Central Bank)  
+**October 2015 - August 2018**
+
+Responsibilities include:
+- Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.
+- Performing econometric and analytical research for policy briefings.
+- Data compilation, cleaning, and preparation. Programming to facilitate and improve data manipulation and analysis.
+- Detail reviews of policy documents, books, and regulations for consistency and accuracy.
+
+---
+
+### Department Head - Federal Telecommunications Institute  
+**June 2015 - September 2015**
+
+Responsibilities include:
+- Evaluation of information to support ongoing investigations and conducting assessments of preliminary reviews at the Investigative Authority.
+- Compiled data on relevant topics for regulatory purposes.
 
 2. **[Academic (RA) Experience](./ra-experience)**  
    Detailed responsabilities in my RA role.
