@@ -9,10 +9,10 @@ weight: 1
 
 In here you can find my nonacademic/policy experience and my academic (RA) experience. 
 
-**[Nonacademic/Policy Experience]**  
+##**Nonacademic/Policy Experience**  
   
-
-### Economic Analyst - Banco de Mexico (Mexican Central Bank)  
+<span style="font-size: 0.9em;">
+** Economic Analyst - Banco de Mexico (Mexican Central Bank) **  
 **October 2015 - August 2018**
 
 Responsibilities include:
@@ -30,5 +30,7 @@ Responsibilities include:
 - Evaluation of information to support ongoing investigations and conducting assessments of preliminary reviews at the Investigative Authority.
 - Compiled data on relevant topics for regulatory purposes.
 
-2. **[Academic (RA) Experience](./ra-experience)**  
-   Detailed responsabilities in my RA role.
+
+
+##**Academic (RA) Experience**  
+</span>
