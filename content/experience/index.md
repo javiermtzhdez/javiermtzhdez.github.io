@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: ""
 draft: false
 layout: single  # Customize if necessary
 showDate: false
