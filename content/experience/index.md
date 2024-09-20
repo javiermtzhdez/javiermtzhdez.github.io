@@ -4,8 +4,8 @@ draft: false
 layout: single  # Customize if necessary
 showDate: false
 hideTitle: true
-weight: 1
 showReadingTime: false  # Custom parameter to control reading time display
+type: single
 ---
 
 In here you can find my nonacademic/policy experience and my academic (RA) experience. 
