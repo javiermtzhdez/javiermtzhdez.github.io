@@ -1,7 +1,20 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+title: "Skills"
 draft: false
-title: Skills
-weight: 10
-summary: My relevant skillset
+layout: single  # Customize if necessary
+showDate: false
+weight: 1
 ---
+
+Here are some skills:
+
+### Sections
+
+1. **[Skills](./skills)**  
+   Detailed insights about the roles I’ve held.
+
+2. **[Languages](../languages)**  
+   Explore the skills I’ve developed over the years.
+
+3. **[Hobbies](../hobbies)**  
+   Explore the skills I’ve developed over the years.
