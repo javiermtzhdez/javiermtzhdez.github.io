@@ -1,14 +1,15 @@
 ---
-title: 'Experience'
+title: ''
 draft: false
 showDate: false
 type: landing
 design:
   spacing: '5rem'
 weight: 10
+headless: true
 
 sections:
-  - title: 'Work Experience'
+  - title: 'Nonacademic/Policy Experience'
     content:
       work:
         - position: Economic Analyst
