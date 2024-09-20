@@ -9,7 +9,7 @@ weight: 1
 
 In here you can find my nonacademic/policy experience and my academic (RA) experience. 
 
-###Nonacademic/Policy Experience
+### Nonacademic/Policy Experience
   
 <span style="font-size: 0.9em;">
   
@@ -33,6 +33,6 @@ Responsibilities include:
 
 
 
-###Academic (RA) Experience
+### Academic (RA) Experience
 
 </span>
