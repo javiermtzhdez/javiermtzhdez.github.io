@@ -1,0 +1,62 @@
+{{ define "main" }}
+  <div class="teaching-content" style="font-family: Arial, sans-serif; line-height: 1.8em; max-width: 800px; margin: 0 auto;">
+    <style>
+      /* Remove bullets from the navbar */
+      nav ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      nav li {
+        list-style-type: none;
+        padding: 0;
+      }
+      
+      /* Specific styling for navbar links to prevent them from being affected */
+      nav a {
+        color: inherit; /* Keeps the original color of the navbar links */
+        text-decoration: none; /* Removes underline from navbar links */
+      }
+      nav a:hover {
+        text-decoration: underline; /* Optional: underline on hover */
+      }
+
+      /* Regular page content styles */
+      h2 {
+        font-size: 1.8em;
+        font-weight: bold;
+        margin-bottom: 1.5em;
+        margin-top: 2em;
+      }
+      h3 {
+        font-size: 1.4em;
+        font-weight: bold;
+        margin-bottom: 0.3em;
+      }
+      ul {
+        margin-left: 1.5em;
+        list-style-type: disc;
+      }
+      p {
+        margin-bottom: 1.5em;
+      }
+      hr {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        border: none;
+        border-top: 1px solid lightgray;
+      }
+
+      /* Add link styling for content links */
+      .teaching-content a {
+        color: #007bff; /* Change the color of links in the content area */
+        text-decoration: underline; /* Underline content links */
+      }
+      .teaching-content a:hover {
+        color: #0056b3; /* Darken content links on hover */
+      }
+    </style>
+
+    <!-- Render the content from the teaching.md file -->
+    {{ .Content }}
+  </div>
+{{ end }}

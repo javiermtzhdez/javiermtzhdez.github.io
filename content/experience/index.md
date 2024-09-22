@@ -1,14 +1,8 @@
 ---
-title: ""
-type: landing
-showDate: false
-hideTitle: true
-showReadingTime: false  # Custom parameter to control reading time display
-
-design:
-  # Section spacing
-  spacing: '5rem'
+title: 'Experience'
+url: "/experience/"
+layout: "experience"
 ---
 
 
-
+{{< readfile file="content/experience/experience.md" markdown="true" >}}
