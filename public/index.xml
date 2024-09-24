@@ -765,8 +765,8 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.&lt;/li&gt;
 &lt;li&gt;Performing econometric and analytical research for policy briefings.&lt;/li&gt;
 &lt;li&gt;Data compilation, cleaning, and preparation. Programming to facilitate and improve data manipulation and analysis.&lt;/li&gt;
-&lt;li&gt;Detailed reviews of policy documents, 
-, and regulations for consistency and accuracy.&lt;/li&gt;
+&lt;li&gt;Detailed reviews of policy documents, books, and regulations for consistency and accuracy. 
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
 &lt;h1 id=&#34;department-head---federal-telecommunications-institute&#34;&gt;&lt;strong&gt;Department Head - Federal Telecommunications Institute&lt;/strong&gt;&lt;/h1&gt;
@@ -818,15 +818,12 @@ Parallel 4   :         des6, after des4, 1d
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;h2 id=&#34;neighborhood-level-crime-deterrence-in-mexico-city&#34;&gt;Neighborhood-level Crime Deterrence in Mexico City&lt;/h2&gt;
 &lt;p&gt;Do surveillance cameras deter crime? This paper addresses this question by analyzing the Participatory Budget (PB) Program in Mexico City and crime rates at the neighborhood level. The PB program allows neighborhoods to choose how to allocate a percentage of public spending on projects proposed by its inhabitants. I focus on neighborhoods that choose to implement surveillance cameras. I leverage the PB program structure and employ the variation of its associated neighborhood-level expenditures, and I empirically test whether crime rates in neighborhoods that implement cameras are lower. I initially classify crimes following the FBI&amp;rsquo;s UCR categories; then I define additional relevant crime categories. I find that the effect of surveillance cameras on crime — that is, the &lt;em&gt;camera deterrence effect&lt;/em&gt; — is not statistically significant at the neighborhood level for most crimes. For other crimes, the estimated coefficient is positive and statistically significant, contrary to what was expected. I check for robustness and find that when including both the lagged value of the crime rate and quadratic terms of the neighborhood observables in the regression, the &lt;em&gt;camera deterrence effect&lt;/em&gt; is not statistically significant, with only &amp;rsquo;theft from auto&amp;rsquo; and &amp;lsquo;disorderly conduct&amp;rsquo; positive and statistically significant. Possible hypotheses for this finding are the meager resources assigned to neighborhoods, the lack of active monitoring, or a possibly suboptimal location chosen for the cameras.&lt;/p&gt;
-&lt;p&gt;
- 
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/static/syllabus/Neighborhood_level_crime_deterrence_FJHM_Sept2024.pdf&#34;&gt;Working Paper&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/static/syllabus/Neighborhood_level_crime_deterrence_FJHM_Seminar_FJMH.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;h2 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h2&gt;
-&lt;h1 id=&#34;estimating-the-spillover-network---joint-with-hans-martinezhttpshansmartinezcom&#34;&gt;Estimating the Spillover Network - joint with 
-&lt;/h1&gt;
+&lt;h1 id=&#34;estimating-the-spillover-network---joint-with-hans-martinezhttpshansmartinezcom&#34;&gt;Estimating the Spillover Network - joint with &lt;a href=&#34;https://hansmartinez.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Martinez&lt;/a&gt;&lt;/h1&gt;
   
 
 
@@ -904,14 +901,10 @@ Parallel 4   :         des6, after des4, 1d
 
   &lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
-&lt;/li&gt;
-&lt;li&gt;Econ2151B Intermediate Microeconomic Theory. King&amp;rsquo;s University College, 
-&lt;/li&gt;
-&lt;li&gt;Mos3313B Financial Markets and Institutions. Western University. 
-&lt;/li&gt;
-&lt;li&gt;Econ2122A Econometrics I. Western University. 
-&lt;/li&gt;
+&lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, &lt;a href=&#34;./syllabus/EC2165F_2023_FJMH.pdf&#34;&gt;Fall 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Econ2151B Intermediate Microeconomic Theory. King&amp;rsquo;s University College, &lt;a href=&#34;./syllabus/EC2151B_Syllabus.pdf&#34;&gt;Winter 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mos3313B Financial Markets and Institutions. Western University. &lt;a href=&#34;.syllabus/MOS3313B_S003.pdf&#34;&gt;Winter 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Econ2122A Econometrics I. Western University. &lt;a href=&#34;./syllabus/Econ2122A_002_Martinez_Fall_24.pdf&#34;&gt;Fall 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
   
 
