@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-981734265&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-548631279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-981734265&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-548631279&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -756,46 +756,46 @@ Parallel 4   :         des6, after des4, 1d
       <description>
 
 
-  &lt;h3 id=&#34;nonacademicpolicy-experience&#34;&gt;Nonacademic/Policy Experience&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;economic-analyst---banco-de-mexico-mexican-central-bank&#34;&gt;&lt;strong&gt;Economic Analyst - Banco de Mexico (Mexican Central Bank)&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;October 2015 - August 2018&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Responsibilities include:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.&lt;/li&gt;
-&lt;li&gt;Performing econometric and analytical research for policy briefings.&lt;/li&gt;
-&lt;li&gt;Data compilation, cleaning, and preparation. Programming to facilitate and improve data manipulation and analysis.&lt;/li&gt;
-&lt;li&gt;Detailed reviews of policy documents, books, and regulations for consistency and accuracy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;department-head---federal-telecommunications-institute&#34;&gt;&lt;strong&gt;Department Head - Federal Telecommunications Institute&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;June 2015 - September 2015&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Responsibilities include:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Evaluation of information to support ongoing investigations and conducting assessments of preliminary reviews at the Investigative Authority.&lt;/li&gt;
-&lt;li&gt;Compiling data on relevant topics for regulatory purposes.&lt;/li&gt;
-&lt;li&gt;Discussions on relevant market, subsitution options and pricing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h3 id=&#34;academic-rata-experience&#34;&gt;&lt;strong&gt;Academic (RA/TA) Experience&lt;/strong&gt;&lt;/h3&gt;
-&lt;h1 id=&#34;dr-baxter-robinson&#34;&gt;&lt;strong&gt;Dr. Baxter Robinson&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Fall 2021 - Fall 2024&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;RA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Data collection and cleaning. Write up results in reports and/or create tables and figures.&lt;/li&gt;
-&lt;li&gt;Literature reviews and proofreading.&lt;/li&gt;
-&lt;li&gt;Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
-&lt;h1 id=&#34;leigh-macdonald&#34;&gt;&lt;strong&gt;Leigh MacDonald&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Winter, Fall 2021&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;TA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead tutorials, preparation of materials.&lt;/li&gt;
-&lt;li&gt;Office hours&lt;/li&gt;
-&lt;/ul&gt;
+  &amp;lt;h3 id=&amp;#34;nonacademicpolicy-experience&amp;#34;&amp;gt;Nonacademic/Policy Experience&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br&amp;gt; &amp;lt;!-- This ensures a visual break before the next section --&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;h1 id=&amp;#34;economic-analyst---banco-de-mexico-mexican-central-bank&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Economic Analyst - Banco de Mexico (Mexican Central Bank)&amp;lt;/strong&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;October 2015 - August 2018&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Responsibilities include:&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Performing econometric and analytical research for policy briefings.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Data compilation, cleaning, and preparation. Programming to facilitate and improve data manipulation and analysis.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Detailed reviews of policy documents, books, and regulations for consistency and accuracy.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br&amp;gt; &amp;lt;!-- This ensures a visual break before the next section --&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;h1 id=&amp;#34;department-head---federal-telecommunications-institute&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Department Head - Federal Telecommunications Institute&amp;lt;/strong&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;June 2015 - September 2015&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Responsibilities include:&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Evaluation of information to support ongoing investigations and conducting assessments of preliminary reviews at the Investigative Authority.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Compiling data on relevant topics for regulatory purposes.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Discussions on relevant market, subsitution options and pricing.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;h3 id=&amp;#34;academic-rata-experience&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Academic (RA/TA) Experience&amp;lt;/strong&amp;gt;&amp;lt;/h3&amp;gt;
+&amp;lt;h1 id=&amp;#34;dr-baxter-robinson&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Dr. Baxter Robinson&amp;lt;/strong&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Fall 2021 - Fall 2024&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;RA Responsibilities include:&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Data collection and cleaning. Write up results in reports and/or create tables and figures.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Literature reviews and proofreading.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br&amp;gt; &amp;lt;!-- This ensures a visual break before the next section --&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;h1 id=&amp;#34;leigh-macdonald&amp;#34;&amp;gt;&amp;lt;strong&amp;gt;Leigh MacDonald&amp;lt;/strong&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Winter, Fall 2021&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;TA Responsibilities include:&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Lead tutorials, preparation of materials.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Office hours&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
 
 
 
@@ -810,22 +810,22 @@ Parallel 4   :         des6, after des4, 1d
       <description>
 
 
-  &lt;h2 id=&#34;knowledge-spillovers-and-the-evolution-of-productivity-jmp&#34;&gt;Knowledge Spillovers and The Evolution of Productivity (JMP)&lt;/h2&gt;
-&lt;p&gt;Firms invest in Research and Development (R&amp;amp;D) to improve their productivity through process and product innovations. However, the intangible capital (knowledge) firms obtain through these R&amp;amp;D investments is subject to dissemination: firms that did not perform the original investment can benefit from the knowledge gained by the R&amp;amp;D-performing firms. Measuring the magnitude and direction of knowledge spillovers is fundamental in understanding the externality effects across the economy. However, their quantification proves elusive as no paper trail or unified framework exists, or there is a lack of network data. In this paper, I extend the non-parametric production function estimator of Gandhi et al. (2020) to account for the effect of knowledge spillovers on the evolution of firm-level productivity. I discuss the measurement of external knowledge and the conditions necessary to identify spillover effects. Using a Spanish panel dataset containing production and R&amp;amp;D variables, I estimate spillovers at the region-industry and industry level, finding heterogeneous returns to R&amp;amp;D and that more productive firms benefit from spillovers. Importantly, in most industries, firms that engage in previous R&amp;amp;D (performers) tend to enjoy higher spillovers than non-performers, highlighting the need for absorptive capacity of firms through R&amp;amp;D investments and the non-performers inability to profit from spillovers.&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h2 id=&#34;neighborhood-level-crime-deterrence-in-mexico-city&#34;&gt;Neighborhood-level Crime Deterrence in Mexico City&lt;/h2&gt;
-&lt;p&gt;Do surveillance cameras deter crime? This paper addresses this question by analyzing the Participatory Budget (PB) Program in Mexico City and crime rates at the neighborhood level. The PB program allows neighborhoods to choose how to allocate a percentage of public spending on projects proposed by its inhabitants. I focus on neighborhoods that choose to implement surveillance cameras. I leverage the PB program structure and employ the variation of its associated neighborhood-level expenditures, and I empirically test whether crime rates in neighborhoods that implement cameras are lower. I initially classify crimes following the FBI&amp;rsquo;s UCR categories; then I define additional relevant crime categories. I find that the effect of surveillance cameras on crime — that is, the &lt;em&gt;camera deterrence effect&lt;/em&gt; — is not statistically significant at the neighborhood level for most crimes. For other crimes, the estimated coefficient is positive and statistically significant, contrary to what was expected. I check for robustness and find that when including both the lagged value of the crime rate and quadratic terms of the neighborhood observables in the regression, the &lt;em&gt;camera deterrence effect&lt;/em&gt; is not statistically significant, with only &amp;rsquo;theft from auto&amp;rsquo; and &amp;lsquo;disorderly conduct&amp;rsquo; positive and statistically significant. Possible hypotheses for this finding are the meager resources assigned to neighborhoods, the lack of active monitoring, or a possibly suboptimal location chosen for the cameras.&lt;/p&gt;
-&lt;p&gt;
+  &amp;lt;h2 id=&amp;#34;knowledge-spillovers-and-the-evolution-of-productivity-jmp&amp;#34;&amp;gt;Knowledge Spillovers and The Evolution of Productivity (JMP)&amp;lt;/h2&amp;gt;
+&amp;lt;p&amp;gt;Firms invest in Research and Development (R&amp;amp;amp;D) to improve their productivity through process and product innovations. However, the intangible capital (knowledge) firms obtain through these R&amp;amp;amp;D investments is subject to dissemination: firms that did not perform the original investment can benefit from the knowledge gained by the R&amp;amp;amp;D-performing firms. Measuring the magnitude and direction of knowledge spillovers is fundamental in understanding the externality effects across the economy. However, their quantification proves elusive as no paper trail or unified framework exists, or there is a lack of network data. In this paper, I extend the non-parametric production function estimator of Gandhi et al. (2020) to account for the effect of knowledge spillovers on the evolution of firm-level productivity. I discuss the measurement of external knowledge and the conditions necessary to identify spillover effects. Using a Spanish panel dataset containing production and R&amp;amp;amp;D variables, I estimate spillovers at the region-industry and industry level, finding heterogeneous returns to R&amp;amp;amp;D and that more productive firms benefit from spillovers. Importantly, in most industries, firms that engage in previous R&amp;amp;amp;D (performers) tend to enjoy higher spillovers than non-performers, highlighting the need for absorptive capacity of firms through R&amp;amp;amp;D investments and the non-performers inability to profit from spillovers.&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;h2 id=&amp;#34;neighborhood-level-crime-deterrence-in-mexico-city&amp;#34;&amp;gt;Neighborhood-level Crime Deterrence in Mexico City&amp;lt;/h2&amp;gt;
+&amp;lt;p&amp;gt;Do surveillance cameras deter crime? This paper addresses this question by analyzing the Participatory Budget (PB) Program in Mexico City and crime rates at the neighborhood level. The PB program allows neighborhoods to choose how to allocate a percentage of public spending on projects proposed by its inhabitants. I focus on neighborhoods that choose to implement surveillance cameras. I leverage the PB program structure and employ the variation of its associated neighborhood-level expenditures, and I empirically test whether crime rates in neighborhoods that implement cameras are lower. I initially classify crimes following the FBI&amp;amp;rsquo;s UCR categories; then I define additional relevant crime categories. I find that the effect of surveillance cameras on crime — that is, the &amp;lt;em&amp;gt;camera deterrence effect&amp;lt;/em&amp;gt; — is not statistically significant at the neighborhood level for most crimes. For other crimes, the estimated coefficient is positive and statistically significant, contrary to what was expected. I check for robustness and find that when including both the lagged value of the crime rate and quadratic terms of the neighborhood observables in the regression, the &amp;lt;em&amp;gt;camera deterrence effect&amp;lt;/em&amp;gt; is not statistically significant, with only &amp;amp;rsquo;theft from auto&amp;amp;rsquo; and &amp;amp;lsquo;disorderly conduct&amp;amp;rsquo; positive and statistically significant. Possible hypotheses for this finding are the meager resources assigned to neighborhoods, the lack of active monitoring, or a possibly suboptimal location chosen for the cameras.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
  
-&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h2 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h2&gt;
-&lt;h1 id=&#34;estimating-the-spillover-network-joint-with-hans-martinezhttpshansmartinezcom&#34;&gt;Estimating the Spillover Network (joint with 
-)&lt;/h1&gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;h2 id=&amp;#34;work-in-progress&amp;#34;&amp;gt;Work in Progress&amp;lt;/h2&amp;gt;
+&amp;lt;h1 id=&amp;#34;estimating-the-spillover-network---joint-with-hans-martinezhttpshansmartinezcom&amp;#34;&amp;gt;Estimating the Spillover Network - joint with 
+&amp;lt;/h1&amp;gt;
 
 
 
@@ -840,53 +840,53 @@ Parallel 4   :         des6, after des4, 1d
       <description>
 
 
-  &lt;h2 id=&#34;-what-i-do-have-are-a-very-particular-set-of-skills-skills-i-have-acquired-over-a-very-entertaining-career-skills-that-make-me-a-good-collaborator-for-people-like-you&#34;&gt;&amp;hellip; What I do have are a very particular set of skills. Skills I have acquired over a very entertaining career. Skills that make me a good collaborator for people like you.&lt;/h2&gt;
-&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/python-original-wordmark.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Python&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In Python, I have developed code for webscraping newspapers and policy briefings for monetary policy sentiment, code for webscraping earnings calls transcripts, cleaned large datasets and developed data pipelines for personal and professional projects. APIs.&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 1px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;Pandas, GeoPandas&lt;/li&gt;
-&lt;li&gt;NumPy&lt;/li&gt;
-&lt;li&gt;Plotly&lt;/li&gt;
-&lt;li&gt;BeautifulSoup, Selenium&lt;/li&gt;
-&lt;li&gt;General Automation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/microsoft365.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In Microsoft Excel, I am able to construct PivotTables, apply advanced formulas, and create macros.&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/stata-svgrepo-com.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Stata&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Experience with statistical analysis, regression models, advanced graphing, and data management through multiple frames. Coding and implementing ado files. Automated the downloading of data from selected sources.&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/julia-svgrepo-com.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Julia&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Coded solutions for dynamic programming models, simulated data, translated code from Julia into Matlab.&lt;/p&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Spanish&lt;/strong&gt; (Native)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt; (Fluent)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;French&lt;/strong&gt; (Intermediate)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Japanese&lt;/strong&gt; (Beginner)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
-&lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hiking&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gardening&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &amp;lt;h2 id=&amp;#34;-what-i-do-have-are-a-very-particular-set-of-skills-skills-i-have-acquired-over-a-very-entertaining-career-skills-that-make-me-a-good-collaborator-for-people-like-you&amp;#34;&amp;gt;&amp;amp;hellip; What I do have are a very particular set of skills. Skills I have acquired over a very entertaining career. Skills that make me a good collaborator for people like you.&amp;lt;/h2&amp;gt;
+&amp;lt;h2 id=&amp;#34;technical-skills&amp;#34;&amp;gt;Technical Skills&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;#34;display: inline-flex; align-items: center;&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;/icons/python-original-wordmark.svg&amp;#34; alt=&amp;#34;Python Icon&amp;#34; width=&amp;#34;20&amp;#34; height=&amp;#34;20&amp;#34; style=&amp;#34;margin-right: 10px; vertical-align: middle;&amp;#34;&amp;gt; &amp;lt;strong&amp;gt;Python&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;In Python, I have developed code for webscraping newspapers and policy briefings for monetary policy sentiment, code for webscraping earnings calls transcripts, cleaned large datasets and developed data pipelines for personal and professional projects. APIs.&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 1px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Pandas, GeoPandas&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;NumPy&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Plotly&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;BeautifulSoup, Selenium&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;General Automation&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;#34;display: inline-flex; align-items: center;&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;/icons/microsoft365.svg&amp;#34; alt=&amp;#34;Microsoft Office Icon&amp;#34; width=&amp;#34;20&amp;#34; height=&amp;#34;20&amp;#34; style=&amp;#34;margin-right: 10px; vertical-align: middle;&amp;#34;&amp;gt; &amp;lt;strong&amp;gt;Microsoft Office&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;In Microsoft Excel, I am able to construct PivotTables, apply advanced formulas, and create macros.&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;#34;display: inline-flex; align-items: center;&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;/icons/stata-svgrepo-com.svg&amp;#34; alt=&amp;#34;Python Icon&amp;#34; width=&amp;#34;20&amp;#34; height=&amp;#34;20&amp;#34; style=&amp;#34;margin-right: 10px; vertical-align: middle;&amp;#34;&amp;gt; &amp;lt;strong&amp;gt;Stata&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Experience with statistical analysis, regression models, advanced graphing, and data management through multiple frames. Coding and implementing ado files. Automated the downloading of data from selected sources.&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;#34;display: inline-flex; align-items: center;&amp;#34;&amp;gt;&amp;lt;img src=&amp;#34;/icons/julia-svgrepo-com.svg&amp;#34; alt=&amp;#34;Microsoft Office Icon&amp;#34; width=&amp;#34;20&amp;#34; height=&amp;#34;20&amp;#34; style=&amp;#34;margin-right: 10px; vertical-align: middle;&amp;#34;&amp;gt; &amp;lt;strong&amp;gt;Julia&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Coded solutions for dynamic programming models, simulated data, translated code from Julia into Matlab.&amp;lt;/p&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;h2 id=&amp;#34;languages&amp;#34;&amp;gt;Languages&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Spanish&amp;lt;/strong&amp;gt; (Native)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;English&amp;lt;/strong&amp;gt; (Fluent)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;French&amp;lt;/strong&amp;gt; (Intermediate)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Japanese&amp;lt;/strong&amp;gt; (Beginner)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&amp;#34;&amp;gt;
+&amp;lt;hr style=&amp;#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&amp;#34;&amp;gt;
+&amp;lt;h2 id=&amp;#34;hobbies&amp;#34;&amp;gt;Hobbies&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Hiking&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Gardening&amp;lt;/strong&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
 
 
 
@@ -901,17 +901,17 @@ Parallel 4   :         des6, after des4, 1d
       <description>
 
 
-  &lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
-&lt;/li&gt;
-&lt;li&gt;Econ2151B Intermediate Microeconomic Theory. King&amp;rsquo;s University College, 
-&lt;/li&gt;
-&lt;li&gt;Mos3313B Financial Markets and Institutions. Western University. 
-&lt;/li&gt;
-&lt;li&gt;Econ2122A Econometrics I. Western University. 
-&lt;/li&gt;
-&lt;/ul&gt;
+  &amp;lt;h2 id=&amp;#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&amp;#34;&amp;gt;During my Ph.D., I have been able to teach the following courses as Instructor:&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Econ2151B Intermediate Microeconomic Theory. King&amp;amp;rsquo;s University College, 
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Mos3313B Financial Markets and Institutions. Western University. 
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Econ2122A Econometrics I. Western University. 
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
 
 
 
