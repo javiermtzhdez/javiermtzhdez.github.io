@@ -8,7 +8,7 @@ title: Javier Martinez Hernandez
 # Website URL
 baseURL: 'https://javiermtzhdez.github.io/'
 #baseURL: 'https://example.com/'
-relativeURLs : true
+#relativeURLs : true
 ############################
 ## LANGUAGE
 ############################
