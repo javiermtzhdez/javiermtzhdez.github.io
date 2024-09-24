@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-948537126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-961825743&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-948537126&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-961825743&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -779,7 +779,23 @@ Parallel 4   :         des6, after des4, 1d
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
-&lt;h3 id=&#34;academic-ra-experience&#34;&gt;&lt;strong&gt;Academic (RA) Experience&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;academic-rata-experience&#34;&gt;&lt;strong&gt;Academic (RA/TA) Experience&lt;/strong&gt;&lt;/h3&gt;
+&lt;h1 id=&#34;dr-baxter-robinson&#34;&gt;&lt;strong&gt;Dr. Baxter Robinson&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Fall 2021 - Fall 2024&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data collection and cleaning. Write up results in reports and/or create tables and figures.&lt;/li&gt;
+&lt;li&gt;Literature reviews and proofreading.&lt;/li&gt;
+&lt;li&gt;Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;leigh-macdonald&#34;&gt;&lt;strong&gt;Leigh MacDonald&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Winter, Fall 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead tutorials, preparation of materials.&lt;/li&gt;
+&lt;li&gt;Office hours&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
@@ -794,7 +810,8 @@ Parallel 4   :         des6, after des4, 1d
       <description>
 
 
-  &lt;h2 id=&#34;knowledge-spillovers-and-the-evolution-of-productivity&#34;&gt;Knowledge Spillovers and The Evolution of Productivity&lt;/h2&gt;
+  &lt;h2 id=&#34;knowledge-spillovers-and-the-evolution-of-productivity-jmp&#34;&gt;Knowledge Spillovers and The Evolution of Productivity (JMP)&lt;/h2&gt;
+&lt;p&gt;Firms invest in Research and Development (R&amp;amp;D) to improve their productivity through process and product innovations. However, the intangible capital (knowledge) firms obtain through these R&amp;amp;D investments is subject to dissemination: firms that did not perform the original investment can benefit from the knowledge gained by the R&amp;amp;D-performing firms. Measuring the magnitude and direction of knowledge spillovers is fundamental in understanding the externality effects across the economy. However, their quantification proves elusive as no paper trail or unified framework exists, or there is a lack of network data. In this paper, I extend the non-parametric production function estimator of Gandhi et al. (2020) to account for the effect of knowledge spillovers on the evolution of firm-level productivity. I discuss the measurement of external knowledge and the conditions necessary to identify spillover effects. Using a Spanish panel dataset containing production and R&amp;amp;D variables, I estimate spillovers at the region-industry and industry level, finding heterogeneous returns to R&amp;amp;D and that more productive firms benefit from spillovers. Importantly, in most industries, firms that engage in previous R&amp;amp;D (performers) tend to enjoy higher spillovers than non-performers, highlighting the need for absorptive capacity of firms through R&amp;amp;D investments and the non-performers inability to profit from spillovers.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
