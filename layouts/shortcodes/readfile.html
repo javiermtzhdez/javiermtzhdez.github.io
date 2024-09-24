@@ -1,7 +1,7 @@
 {{ $file := .Get "file" }}
 {{ $content := readFile $file }}
 {{ if eq (.Get "markdown") "true" }}
-  {{ $content | markdownify }}
+  {{ $content | markdownify }}  <!-- Only markdownify without relURL or safeHTML -->
 {{ else }}
-  {{ $content | safeHTML }}
+  {{ $content }}
 {{ end }}

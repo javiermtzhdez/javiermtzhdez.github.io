@@ -7,7 +7,7 @@
 - Writing or assisting in preparing reports and presentations for senior policy makers on current economic and financial conditions and policy issues.
 - Performing econometric and analytical research for policy briefings.
 - Data compilation, cleaning, and preparation. Programming to facilitate and improve data manipulation and analysis.
-- Detailed reviews of policy documents, books, and regulations for consistency and accuracy.
+- Detailed reviews of policy documents, [books](<https://www.banxico.org.mx/publicaciones-y-prensa/e-library/d/%7BBED1A837-2860-7617-BAC6-4F5A9648DF73%7D.pdf>), and regulations for consistency and accuracy. 
 
 <br> <!-- This ensures a visual break before the next section -->
 
