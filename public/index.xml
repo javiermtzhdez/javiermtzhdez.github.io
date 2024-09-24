@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-498517623&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-145836297&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-498517623&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-145836297&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -554,7 +554,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;./post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://javiermtzhdez.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -844,7 +844,7 @@ Parallel 4   :         des6, after des4, 1d
   &lt;h2 id=&#34;-what-i-do-have-are-a-very-particular-set-of-skills-skills-i-have-acquired-over-a-very-entertaining-career-skills-that-make-me-a-good-collaborator-for-people-like-you&#34;&gt;&amp;hellip; What I do have are a very particular set of skills. Skills I have acquired over a very entertaining career. Skills that make me a good collaborator for people like you.&lt;/h2&gt;
 &lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/python-original-wordmark.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Python&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;https://javiermtzhdez.github.io/icons/python-original-wordmark.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Python&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In Python, I have developed code for webscraping newspapers and policy briefings for monetary policy sentiment, code for webscraping earnings calls transcripts, cleaned large datasets and developed data pipelines for personal and professional projects. APIs.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 1px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
@@ -857,17 +857,17 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/microsoft365.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;https://javiermtzhdez.github.io/icons/microsoft365.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Microsoft Office&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In Microsoft Excel, I am able to construct PivotTables, apply advanced formulas, and create macros.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/stata-svgrepo-com.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Stata&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;https://javiermtzhdez.github.io/icons/stata-svgrepo-com.svg&#34; alt=&#34;Python Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Stata&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Experience with statistical analysis, regression models, advanced graphing, and data management through multiple frames. Coding and implementing ado files. Automated the downloading of data from selected sources.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 5px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;./icons/julia-svgrepo-com.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Julia&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;display: inline-flex; align-items: center;&#34;&gt;&lt;img src=&#34;https://javiermtzhdez.github.io/icons/julia-svgrepo-com.svg&#34; alt=&#34;Microsoft Office Icon&#34; width=&#34;20&#34; height=&#34;20&#34; style=&#34;margin-right: 10px; vertical-align: middle;&#34;&gt; &lt;strong&gt;Julia&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Coded solutions for dynamic programming models, simulated data, translated code from Julia into Matlab.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
@@ -899,7 +899,18 @@ Parallel 4   :         des6, after des4, 1d
       <link>https://javiermtzhdez.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javiermtzhdez.github.io/teaching/</guid>
-      <description>
+      <description>&lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
+&lt;/li&gt;
+&lt;li&gt;Econ2151B Intermediate Microeconomic Theory. King&amp;rsquo;s University College, 
+&lt;/li&gt;
+&lt;li&gt;Mos3313B Financial Markets and Institutions. Western University. 
+&lt;/li&gt;
+&lt;li&gt;Econ2122A Econometrics I. Western University. 
+&lt;/li&gt;
+&lt;/ul&gt;
+
 
 
   &lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
