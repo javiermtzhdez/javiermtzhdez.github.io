@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-512698374&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-389425761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-512698374&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-389425761&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -753,10 +753,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>https://javiermtzhdez.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javiermtzhdez.github.io/experience/</guid>
-      <description>
-
-
-  &lt;h3 id=&#34;nonacademicpolicy-experience&#34;&gt;Nonacademic/Policy Experience&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;nonacademicpolicy-experience&#34;&gt;Nonacademic/Policy Experience&lt;/h3&gt;
 &lt;p&gt;&lt;br&gt; &lt;!-- This ensures a visual break before the next section --&gt;&lt;/p&gt;
 &lt;h1 id=&#34;economic-analyst---banco-de-mexico-mexican-central-bank&#34;&gt;&lt;strong&gt;Economic Analyst - Banco de Mexico (Mexican Central Bank)&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;October 2015 - August 2018&lt;/strong&gt;&lt;/p&gt;
@@ -797,9 +794,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;Lead tutorials, preparation of materials.&lt;/li&gt;
 &lt;li&gt;Office hours&lt;/li&gt;
 &lt;/ul&gt;
-
-
-
 </description>
     </item>
     
@@ -808,10 +802,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>https://javiermtzhdez.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javiermtzhdez.github.io/research/</guid>
-      <description>
-
-
-  &lt;h2 id=&#34;knowledge-spillovers-and-the-evolution-of-productivity-jmp&#34;&gt;Knowledge Spillovers and The Evolution of Productivity (JMP)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;knowledge-spillovers-and-the-evolution-of-productivity-jmp&#34;&gt;Knowledge Spillovers and The Evolution of Productivity (JMP)&lt;/h2&gt;
 &lt;p&gt;Firms invest in Research and Development (R&amp;amp;D) to improve their productivity through process and product innovations. However, the intangible capital (knowledge) firms obtain through these R&amp;amp;D investments is subject to dissemination: firms that did not perform the original investment can benefit from the knowledge gained by the R&amp;amp;D-performing firms. Measuring the magnitude and direction of knowledge spillovers is fundamental in understanding the externality effects across the economy. However, their quantification proves elusive as no paper trail or unified framework exists, or there is a lack of network data. In this paper, I extend the non-parametric production function estimator of Gandhi et al. (2020) to account for the effect of knowledge spillovers on the evolution of firm-level productivity. I discuss the measurement of external knowledge and the conditions necessary to identify spillover effects. Using a Spanish panel dataset containing production and R&amp;amp;D variables, I estimate spillovers at the region-industry and industry level, finding heterogeneous returns to R&amp;amp;D and that more productive firms benefit from spillovers. Importantly, in most industries, firms that engage in previous R&amp;amp;D (performers) tend to enjoy higher spillovers than non-performers, highlighting the need for absorptive capacity of firms through R&amp;amp;D investments and the non-performers inability to profit from spillovers.&lt;/p&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
@@ -827,9 +818,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;h2 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h2&gt;
 &lt;h1 id=&#34;estimating-the-spillover-network---joint-with-hans-martinezhttpshansmartinezcom&#34;&gt;Estimating the Spillover Network - joint with 
 &lt;/h1&gt;
-  
-
-
 </description>
     </item>
     
@@ -899,10 +887,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>https://javiermtzhdez.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://javiermtzhdez.github.io/teaching/</guid>
-      <description>
-
-
-  &lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
 &lt;/li&gt;
@@ -913,9 +898,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;Econ2122A Econometrics I. Western University. 
 &lt;/li&gt;
 &lt;/ul&gt;
-
-
-
 </description>
     </item>
     
