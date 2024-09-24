@@ -6,8 +6,9 @@
 # Website name
 title: Javier Martinez Hernandez
 # Website URL
-#baseURL: 'http://javiermtzhdez.github.io/'
-#baseURL: http://localhost:1313/
+baseURL: 'https://javiermtzhdez.github.io/'
+#baseURL: 'https://example.com/'
+relativeURLs : true
 ############################
 ## LANGUAGE
 ############################

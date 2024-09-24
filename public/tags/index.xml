@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Javier Martinez Hernandez</title>
-    <link>http://javiermtzhdez.github.io/tags/</link>
-      <atom:link href="http://javiermtzhdez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://javiermtzhdez.github.io/tags/</link>
+      <atom:link href="https://javiermtzhdez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://javiermtzhdez.github.io/media/icon_hu1259999452697815629.png</url>
+      <url>https://javiermtzhdez.github.io/media/icon_hu1259999452697815629.png</url>
       <title>Tags</title>
-      <link>http://javiermtzhdez.github.io/tags/</link>
+      <link>https://javiermtzhdez.github.io/tags/</link>
     </image>
     
   </channel>
