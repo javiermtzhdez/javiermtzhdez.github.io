@@ -2,140 +2,140 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>http://javiermtzhdez.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>http://javiermtzhdez.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>http://javiermtzhdez.github.io/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://javiermtzhdez.github.io/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pandas/</loc>
+    <loc>http://javiermtzhdez.github.io/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>http://javiermtzhdez.github.io/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pytorch/</loc>
+    <loc>http://javiermtzhdez.github.io/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
+    <loc>http://javiermtzhdez.github.io/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/second-brain/</loc>
+    <loc>http://javiermtzhdez.github.io/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/data-visualization/</loc>
+    <loc>http://javiermtzhdez.github.io/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/teach-courses/</loc>
+    <loc>http://javiermtzhdez.github.io/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/project-management/</loc>
+    <loc>http://javiermtzhdez.github.io/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://javiermtzhdez.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
+    <loc>http://javiermtzhdez.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>http://javiermtzhdez.github.io/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>http://javiermtzhdez.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://javiermtzhdez.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article/</loc>
+    <loc>http://javiermtzhdez.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>http://javiermtzhdez.github.io/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/source-themes/</loc>
+    <loc>http://javiermtzhdez.github.io/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
+    <loc>http://javiermtzhdez.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>http://javiermtzhdez.github.io/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>http://javiermtzhdez.github.io/experience/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>http://javiermtzhdez.github.io/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/skills/</loc>
+    <loc>http://javiermtzhdez.github.io/skills/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>http://javiermtzhdez.github.io/teaching/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

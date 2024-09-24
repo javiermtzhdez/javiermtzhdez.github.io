@@ -4,5 +4,4 @@ url: "/teaching/"
 layout: "teaching"
 ---
 
-
-{{< readfile file="content/teaching/teaching.md" markdown="true" >}}
+{{< read_teaching file="content/teaching/teaching.md" markdown="true" >}}
