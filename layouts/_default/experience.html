@@ -1,44 +1,20 @@
 {{ define "main" }}
   <div class="experience-content" style="font-family: Arial, sans-serif; line-height: 1.8em; max-width: 800px; margin: 0 auto;">
     <style>
-      /* Remove bullets from the navbar */
-      nav ul {
-        list-style-type: none; /* Remove bullets from the navigation */
-        padding: 0;
-      }
-      
-      nav li {
-        list-style-type: none; /* Remove bullets from each list item in the nav */
-        padding: 0;
-      }
-
-      /* Regular page content styles */
-      h2 {
-        font-size: 1.8em;
-        font-weight: bold;
-        margin-bottom: 1.5em;
-        margin-top: 2em;
-      }
-      h3 {
-        font-size: 1.4em;
-        font-weight: bold;
-        margin-bottom: 0.3em;
-      }
-      ul {
-        margin-left: 1.5em;
-        list-style-type: disc;
-      }
-      p {
-        margin-bottom: 1.5em;
-      }
-      hr {
-        margin-top: 25px;
-        margin-bottom: 20px;
-        border: none;
-        border-top: 1px solid lightgray;
-      }
+      nav ul { list-style-type: none; padding: 0; }
+      nav li { list-style-type: none; padding: 0; }
+      nav a { color: inherit; text-decoration: none; }
+      nav a:hover { text-decoration: underline; }
+      h2 { font-size: 1.8em; font-weight: bold; margin-bottom: 1.5em; margin-top: 2em; }
+      h3 { font-size: 1.4em; font-weight: bold; margin-bottom: 0.3em; }
+      ul { margin-left: 1.5em; list-style-type: disc; }
+      p { margin-bottom: 1.5em; }
+      hr { margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray; }
+      .experience-content a { color: #007bff; text-decoration: underline; }
+      .experience-content a:hover { color: #0056b3; }
     </style>
-    <!-- Render the content from the Markdown file -->
+
+    <!-- Render the content from the shortcode -->
     {{ .Content }}
   </div>
 {{ end }}
