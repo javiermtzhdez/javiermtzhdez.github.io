@@ -20,7 +20,6 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-relativeURLs: true
 build:
   writeStats: true
 enableGitInfo: false
