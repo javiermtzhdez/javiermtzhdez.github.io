@@ -753,7 +753,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
-      <description>
+      <description>&lt;p&gt;
 
 
   &lt;h3 id=&#34;nonacademicpolicy-experience&#34;&gt;Nonacademic/Policy Experience&lt;/h3&gt;
@@ -800,6 +800,8 @@ Parallel 4   :         des6, after des4, 1d
   
 
 
+
+&lt;/p&gt;
 </description>
     </item>
     
