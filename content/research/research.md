@@ -20,4 +20,4 @@ Do surveillance cameras deter crime? This paper addresses this question by analy
 
 ## Work in Progress
 
-# Estimating the Spillover Network - joint with [Hans Martinez](<https://www.codecademy.com/resources/docs>)
+# Estimating the Spillover Network - joint with [Hans Martinez](<https://hansmartinez.com/>)
