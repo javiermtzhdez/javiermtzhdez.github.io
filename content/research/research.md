@@ -14,3 +14,10 @@ Do surveillance cameras deter crime? This paper addresses this question by analy
 
 [Working Paper](/syllabus/Neighborhood_level_crime_deterrence_FJHM_Sept2024.pdf) [Slides](/syllabus/Neighborhood_level_crime_deterrence_FJHM_Seminar_FJMH.pdf)
 
+<hr style="margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;">
+<hr style="margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;">
+<hr style="margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;">
+
+## Work in Progress
+
+# Estimating the Spillover Network (joint with [Hans Martinez](https://hansmartinez.com/))
