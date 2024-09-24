@@ -115,4 +115,3 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
-[(click here for a Monetary Policy book for which I provided research assistance - Spanish only)](https://www.banxico.org.mx/publicaciones-y-prensa/e-library/d/%7BBED1A837-2860-7617-BAC6-4F5A9648DF73%7D.pdf)
