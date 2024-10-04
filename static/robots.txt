@@ -1,0 +1,7 @@
+Sitemap: https://javiermtzhdez.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
+
+User-agent: Googlebot
+Disallow:
