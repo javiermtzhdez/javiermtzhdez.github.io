@@ -20,4 +20,4 @@ Do surveillance cameras deter crime? This paper addresses this question by analy
 
 ## Work in Progress
 
-# Estimating the Spillover Network with Panel Data - joint with Karthik Kotikalapudi
+# Spillover Networks and Knowledge Diffusion - joint with Karthik Kotikalapudi

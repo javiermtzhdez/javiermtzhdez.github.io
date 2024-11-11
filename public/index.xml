@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-483912765&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-354278619&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-483912765&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-354278619&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -816,8 +816,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid lightgray;&#34;&gt;
 &lt;hr style=&#34;margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;&#34;&gt;
 &lt;h2 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h2&gt;
-&lt;h1 id=&#34;estimating-the-spillover-network---joint-with-hans-martinezhttpshansmartinezcom&#34;&gt;Estimating the Spillover Network - joint with 
-&lt;/h1&gt;
+&lt;h1 id=&#34;spillover-networks-and-knowledge-diffusion---joint-with-karthik-kotikalapudi&#34;&gt;Spillover Networks and Knowledge Diffusion - joint with Karthik Kotikalapudi&lt;/h1&gt;
 </description>
     </item>
     
