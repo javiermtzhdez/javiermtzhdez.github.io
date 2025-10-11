@@ -61,6 +61,5 @@ education:
     
 ---
 
-## About Me
 
 Welcome! I am a Ph.D. Candidate in Economics at the University of Western Ontario. My interests are Empirical Industrial Organization, Applied Economics and Causal Inference, currently focusing on R&D investments and spillovers. Within Empirical IO, I am also interested in antitrust/competition (policy) and enjoy discussing theoretical papers and practitioners' briefings. I am also interested in applying causal inference methods, particularly on crime. 

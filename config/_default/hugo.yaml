@@ -25,7 +25,9 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+#paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -53,3 +55,14 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+  goldmark:
+    renderHooks:
+      link:
+        # Use this if the old setting was "enableDefault: true"
+        useEmbedded: fallback
+        # If you know it was "false", change to:
+        # useEmbedded: never
