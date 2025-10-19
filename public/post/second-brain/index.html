@@ -372,6 +372,28 @@
 
 
 
+<style>
+  .markmap > svg {
+    width: 100%;
+    height: 100%;
+  }
+</style>
+<script>
+  window.markmap = {
+    autoLoader: {
+      manual: false,
+      onReady() {
+        const { autoLoader, builtInPlugins } = window.markmap;
+        
+        autoLoader.transformPlugins = builtInPlugins.filter(plugin => plugin.name !== 'prism');
+      },
+    },
+  };
+</script>
+
+
+<script defer src="/dist/lib/markmap/index.min.acdd27668eea937d15a10af477ad4e780ff012f2ab2d3335f4a679025266edff.js" integrity="sha256-rN0nZo7qk30VoQr0d61OeA/wEvKrLTM19KZ5AlJm7f8="></script>
+
 
 
 

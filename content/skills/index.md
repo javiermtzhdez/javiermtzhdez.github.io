@@ -2,6 +2,7 @@
 title: 'Skills'
 url: "/skills/"
 layout: "skills"
+draft: true
 ---
 
 
