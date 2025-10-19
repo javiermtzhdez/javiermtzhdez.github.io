@@ -34,22 +34,17 @@ layout: "experience"
 <hr style="margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;">
 
 
+<br> <!-- This ensures a visual break before the next section -->
 
-###  **Academic (RA/TA) Experience**
+<br> <!-- This ensures a visual break before the next section -->
 
-# **Dr. Baxter Robinson**
+###  **Academic Experience**
+
+# **Research assistant for Dr. Baxter Robinson**
 **Fall 2021 - Fall 2024**
 
-*RA Responsibilities include:*
+*Responsibilities include:*
 - Data collection and cleaning. Write up results in reports and/or create tables and figures.  
 - Literature reviews and proofreading. 
 - Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability. 
 
-<br> <!-- This ensures a visual break before the next section -->
-
-# **Leigh MacDonald**
-**Winter, Fall 2021**
-
-*TA Responsibilities include:*
-- Lead tutorials, preparation of materials.
-- Office hours

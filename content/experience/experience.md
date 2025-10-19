@@ -26,9 +26,10 @@
 
 <hr style="margin-top: 25px; margin-bottom: 20px; border: none; border-top: 1px solid white;">
 
+<br> <!-- This ensures a visual break before the next section -->
 
 
-###  **Academic (RA/TA) Experience**
+###  **Academic (RA) Experience**
 
 # **Dr. Baxter Robinson**
 **Fall 2021 - Fall 2024**
@@ -38,11 +39,3 @@
 - Literature reviews and proofreading. 
 - Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability. 
 
-<br> <!-- This ensures a visual break before the next section -->
-
-# **Leigh MacDonald**
-**Winter, Fall 2021**
-
-*TA Responsibilities include:*
-- Lead tutorials, preparation of materials.
-- Office hours

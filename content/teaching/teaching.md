@@ -4,3 +4,14 @@
 - Econ2151B Intermediate Microeconomic Theory. King's University College, [Winter 2023](/syllabus/EC2151B_Syllabus.pdf)
 - Mos3313B Financial Markets and Institutions. Western University. [Winter 2024](/syllabus/MOS3313B_S003.pdf)
 - Econ2122A Econometrics I. Western University. [Fall 2024](/syllabus/Econ2122A_002_Martinez_Fall_24.pdf)
+
+
+<br> <!-- This ensures a visual break before the next section -->
+
+
+# **Leigh MacDonald**
+**Winter, Fall 2021**
+
+*TA Responsibilities include:*
+- Lead tutorials, preparation of materials.
+- Office hours

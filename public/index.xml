@@ -248,7 +248,7 @@
 
 
 
-&lt;div id=&#34;chart-783245961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-873294156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -266,7 +266,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-783245961&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-873294156&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -687,22 +687,16 @@ Parallel 4   :         des6, after des4, 1d
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;academic-rata-experience&#34;&gt;&lt;strong&gt;Academic (RA/TA) Experience&lt;/strong&gt;&lt;/h3&gt;
-&lt;h1 id=&#34;dr-baxter-robinson&#34;&gt;&lt;strong&gt;Dr. Baxter Robinson&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
+&lt;h3 id=&#34;academic-experience&#34;&gt;&lt;strong&gt;Academic Experience&lt;/strong&gt;&lt;/h3&gt;
+&lt;h1 id=&#34;research-assistant-for-dr-baxter-robinson&#34;&gt;&lt;strong&gt;Research assistant for Dr. Baxter Robinson&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Fall 2021 - Fall 2024&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;RA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Responsibilities include:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Data collection and cleaning. Write up results in reports and/or create tables and figures.&lt;/li&gt;
 &lt;li&gt;Literature reviews and proofreading.&lt;/li&gt;
 &lt;li&gt;Matlab, Julia and Stata coding, with emphasis on thorough code documentation and replicability.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
-&lt;h1 id=&#34;leigh-macdonald&#34;&gt;&lt;strong&gt;Leigh MacDonald&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Winter, Fall 2021&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;TA Responsibilities include:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead tutorials, preparation of materials.&lt;/li&gt;
-&lt;li&gt;Office hours&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -788,7 +782,8 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/</guid>
-      <description>&lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-as-instructor&#34;&gt;During my Ph.D., I have been able to teach the following courses as Instructor:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;during-my-phd-i-have-been-able-to-teach-the-following-courses-in-different-capacities&#34;&gt;During my Ph.D., I have been able to teach the following courses in different capacities.&lt;/h2&gt;
+&lt;h3 id=&#34;instructor&#34;&gt;Instructor&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Econ2165F Industrial Organization. Western University. Fall 2022, 
 &lt;/li&gt;
@@ -798,6 +793,12 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/li&gt;
 &lt;li&gt;Econ2122A Econometrics I. Western University. 
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
+&lt;h3 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Econ 1021A Introductory Microeconomics, Fall 2021.&lt;/li&gt;
+&lt;li&gt;Econ 1022B Introductory Macroeconomics, Winter 2022&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
