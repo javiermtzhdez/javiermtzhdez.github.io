@@ -36,30 +36,30 @@ profiles:
   - icon: brands/github
     url: https://github.com/javiermtzhdez
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/javier-martinez-hernandez-b5626059/
+    url: https://www.linkedin.com/in/javiermtzhdez/
   
 interests:
-  - Empirical Industrial Organization (Spillovers, Innovation, Antitrust)
-  - Applied Econometrics (Network Econometrics, Spatial Econometrics)
+  - Empirical Industrial Organization 
+  - Applied Econometrics 
   - Causal Inference
 
 education:
-  - area: Ph.D. Economics
+  - area: Ph.D. in Economics
     institution: Western University
     date_start: 2016-01-01
     date_end: ''
     
   - area: MSc. Economics
-    institution: El Colegio de Mexico
+    institution: El Colegio de México
     date_start: 2013-08-01
     date_end: 2015-06-01
   
   - area: B.A. Economics
-    institution: Universidad Nacional Autonoma de Mexico
+    institution: Universidad Nacional Autónoma de México
     date_start: 2007-08-01
     date_end: 2012-08-31
     
 ---
 
 
-Welcome! I am a Ph.D. Candidate in Economics at the University of Western Ontario. My interests are Empirical Industrial Organization, Applied Economics and Causal Inference, currently focusing on R&D investments and spillovers. Within Empirical IO, I am also interested in antitrust/competition (policy) and enjoy discussing theoretical papers and practitioners' briefings. I am also interested in applying causal inference methods, particularly on crime. 
+Welcome! I am a Ph.D. candidate in Economics at Western University (formerly University of Western Ontario), specializing in Empirical Industrial Organization with a particular interest in spillovers, innovation, R&D investment, and antitrust policy. My research focuses on the effects of knowledge externalities and their measurement. In particular, my job-market paper quantifies spillover effects on firm-level productivity and analyzes their heterogeneity across firms and over time. I am also interested in network economics and causal inference methods.
