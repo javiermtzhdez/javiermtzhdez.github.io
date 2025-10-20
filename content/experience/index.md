@@ -7,7 +7,7 @@ layout: "experience"
 
 ### Nonacademic/Policy Experience
 <br> <!-- This ensures a visual break before the next section -->
-# **Economic Analyst - Banco de Mexico (Mexican Central Bank)**
+# **Economist - Banco de Mexico (Mexican Central Bank)**
 **October 2015 - August 2018**
 
 *Responsibilities include:*
